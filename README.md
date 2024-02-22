@@ -4,6 +4,8 @@ Installation and running
 - JDK 17.0.7 <br/>
 - Gradle 7.6.2 <br/>
 
+Don't forget to set Fixer.io API key in application.yml file
+
 ---
 
 Task
