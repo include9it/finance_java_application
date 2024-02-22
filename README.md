@@ -3,8 +3,8 @@ Installation and running
 <h4>Tools</h4>
 - JDK 17.0.7 <br/>
 - Gradle 7.6.2 <br/>
-\
-\
+  <br/>
+  <br/>
 Don't forget to set Fixer.io API key in application.yml file
 
 ---
