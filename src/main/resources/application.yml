@@ -21,7 +21,7 @@ spring:
 exchange-rate-service:
   fixer:
     name: fixer
-    api-key: 0ed77d47b124455578680733563d68ec
+    api-key:
     base-url: http://data.fixer.io
     api-path: /api/latest
     logger-level: FULL
