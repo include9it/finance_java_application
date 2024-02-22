@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4e6f843f-8e0d-44b2-92d9-152a7efdc1f5",
+    "currency": "EUR",
+    "balance": 500.50
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "currency": "USD",
+    "balance": 800.50
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "targetAccountId": "7618b754-73e4-4d18-9af7-8902cbdbff82",
+    "amount": 100.00,
+    "status": "PENDING",
+    "currency": "EUR"
+  },
+  {
+    "targetAccountId": "550e8400-e29b-41d4-a716-446655440000",
+    "amount": 100.00,
+    "status": "COMPLETE",
+    "currency": "EUR"
+  },
+  {
+    "targetAccountId": "4e6f843f-8e0d-44b2-92d9-152a7efdc1f5",
+    "amount": 70.00,
+    "status": "COMPLETE",
+    "currency": "USD"
+  },
+  {
+    "targetAccountId": "4e6f843f-8e0d-44b2-92d9-152a7efdc1f5",
+    "amount": 50.00,
+    "status": "COMPLETE",
+    "currency": "EUR"
+  },
+  {
+    "targetAccountId": "4e6f843f-8e0d-44b2-92d9-152a7efdc1f5",
+    "amount": 30.00,
+    "status": "PENDING",
+    "currency": "GBP"
+  }
+]
